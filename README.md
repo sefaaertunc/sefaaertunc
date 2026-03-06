@@ -19,8 +19,6 @@
 ### 📱 **Mobile Development**
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,react" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
 ### 🎨 **Frontend Development**
@@ -43,7 +41,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" alt="Databases" />
 </p>
-
 
 
 </div>
