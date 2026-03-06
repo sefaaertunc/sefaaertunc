@@ -1,15 +1,14 @@
 # 👋 Merhaba, Ben Sefa Ertunç Salar 😎
 
-<img align="right" alt="Coding Dog" width="300" src="https://media.giphy.com/media/qgQUggCGvnk50v0205/giphy.gif">
+<img src="https://media3.giphy.com/media/SwImQhtiNA7io/giphy.gif?cid=ecf05e47n8hxvtn3lu7hljeasrqmvp0r6fe1vy5p7f59bcv3&rid=giphy.gif&ct=g" alt="dog" align = "right" width = "400" height = "250" />
 
 - 👀 **Android geliştirme**, **IoT** ve **Akıllı Ev** sistemleri ile ilgileniyorum.
 - 💻 Ağırlıklı olarak **Kotlin** ve **Java** ile geliştirme yapıyorum.
-- 📫 Bana ulaşmak için: **[sefaertuncsalar@gmail.com]**
 
 <br>
 
 ### 🤝 Benimle İletişime Geç:
-<a href="[LinkedIn Profil Linkin]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/sefaertuncsalar?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br>
 
