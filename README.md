@@ -18,20 +18,17 @@
 
 ### 📱 **Mobile Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,swift,react" alt="Mobile" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,swift" alt="Mobile" />
 </p>
 
 ### 🎨 **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,angular,nextjs,redux" alt="Frontend" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,jquery,webpack,vite,babel" alt="Frontend Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs" alt="Frontend" />
 </p>
 
 ### ⚙️ **Backend & Server**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,laravel" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,java,php,laravel" alt="Backend" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,graphql,apollo,nestjs,fastapi" alt="Backend Advanced" />
@@ -39,7 +36,7 @@
 
 ### 🗄️ **Databases & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,firebase,supabase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,supabase" alt="Databases" />
 </p>
 
 
